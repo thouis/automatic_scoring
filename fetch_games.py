@@ -5,9 +5,10 @@ import os
 
 
 def game_pages():
-    url = "http://online-go.com/api/v1/games/"
+    url = 'http://online-go.com/api/v1/games/?outcome__lt="9"'  # doens't work, but filters resignations
     while url:
         time.sleep(0.25)
+        print url
         page = json.load(urllib2.urlopen(url))
         yield page
         url = page["next"]
@@ -57,7 +58,7 @@ if __name__ == "__main__":
                 continue
 
             # ignore games with too large a point difference at the end
-            if score_difference(game) > 10:
+            if score_difference(game) > 15:
                 continue
 
             players = game["players"]
@@ -69,6 +70,8 @@ if __name__ == "__main__":
             # only take games where the average rating of the players is > 1d
             if (players["white"]["rating"] + players["black"]["rating"]) / 2 < 2100:
                 continue
+
+            print game["outcome"],
 
             game_id = game["id"]
             # fetch SGF
