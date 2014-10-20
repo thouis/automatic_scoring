@@ -1,0 +1,883 @@
+(;FF[4]
+GM[1]
+DT[2014-08-10]
+PC[OGS: http://online-go.com/game/787980]
+PB[Levvo]
+PW[gamesorry]
+BR[1d]
+WR[1d]
+CP[online-go.com]
+RE[W+1.5]
+SZ[19]
+KM[6.5]
+RU[japanese]
+C[Levvo: have fun
+]
+;B[pd]
+C[Levvo: have fun
+]
+;W[dp]
+C[gamesorry: Have a good game!
+]
+;B[fq]
+C[Levvo: you too
+]
+;W[hq]
+;B[ce]
+;W[qp]
+;B[dc]
+;W[jc]
+;B[op]
+;W[nc]
+;B[lc]
+;W[ne]
+;B[pf]
+;W[kd]
+;B[oc]
+;W[nb]
+;B[qo]
+;W[ro]
+;B[po]
+;W[rn]
+;B[qq]
+;W[rp]
+;B[pq]
+;W[pm]
+;B[jq]
+;W[ho]
+;B[cn]
+;W[fp]
+;B[cq]
+;W[cp]
+;B[dq]
+;W[eq]
+;B[er]
+;W[ep]
+;B[gr]
+;W[dj]
+;B[cl]
+;W[ck]
+;B[el]
+;W[gl]
+;B[fk]
+;W[hj]
+;B[ci]
+;W[bl]
+;B[fi]
+;W[di]
+;B[ch]
+;W[dl]
+;B[dh]
+;W[em]
+;B[gq]
+;W[hh]
+;B[qk]
+;W[ph]
+;B[rl]
+;W[qm]
+;B[ok]
+;W[pj]
+;B[pk]
+;W[nm]
+;B[mk]
+;W[lm]
+;B[og]
+;W[ni]
+;B[mg]
+;W[li]
+;B[rh]
+;W[qg]
+;B[qi]
+;W[pi]
+;B[kk]
+;W[rj]
+;B[qj]
+;W[rg]
+;B[sh]
+;W[qe]
+;B[qd]
+;W[re]
+;B[ld]
+;W[od]
+;B[pe]
+;W[le]
+;B[kg]
+;W[ji]
+;B[ke]
+;W[me]
+;B[je]
+;W[hc]
+;B[mi]
+;W[mh]
+;B[mj]
+;W[nh]
+;B[lh]
+C[Levvo: Only way to solve overplay is overplay.
+]
+;W[ng]
+;B[ki]
+C[gamesorry: :)
+]
+;W[mp]
+;B[mo]
+;W[no]
+;B[np]
+;W[lo]
+;B[mn]
+;W[ln]
+;B[lp]
+;W[mq]
+;B[on]
+;W[nn]
+;B[om]
+;W[oo]
+;B[nl]
+;W[mm]
+;B[pn]
+;W[pp]
+;B[nr]
+;W[rq]
+;B[rr]
+;W[nq]
+;B[oq]
+;W[sr]
+;B[rs]
+;W[mr]
+;B[ns]
+;W[qn]
+;B[ol]
+;W[pr]
+;B[ps]
+;W[mf]
+;B[gp]
+;W[lg]
+;B[kh]
+;W[iq]
+;B[go]
+;W[bp]
+;B[gk]
+;W[il]
+;B[hk]
+;W[ik]
+;B[hn]
+;W[io]
+;B[in]
+;W[jo]
+;B[jm]
+;W[hl]
+;B[fn]
+;W[ek]
+;B[en]
+;W[dn]
+;B[fl]
+;W[fm]
+;B[gm]
+;W[dm]
+;B[gi]
+;W[gg]
+;B[eh]
+;W[gd]
+;B[id]
+;W[ic]
+;B[ge]
+;W[fe]
+;B[ff]
+;W[he]
+;B[gf]
+;W[hf]
+;B[hd]
+;W[ie]
+;B[jd]
+;W[kf]
+;B[jf]
+;W[jg]
+;B[lf]
+;W[ef]
+;B[fg]
+;W[kf]
+;B[kc]
+;W[jh]
+;B[lf]
+;W[ms]
+;B[or]
+;W[kf]
+;B[kj]
+;W[gc]
+;B[lf]
+;W[qr]
+;B[qs]
+;W[kf]
+;B[if]
+;W[hg]
+;B[lf]
+;W[kl]
+;B[mg]
+;W[jl]
+;B[fb]
+;W[br]
+;B[cr]
+;W[cs]
+;B[ds]
+;W[kb]
+;B[lb]
+;W[ja]
+;B[gb]
+;W[la]
+;B[ma]
+;W[mb]
+;B[ka]
+;W[bs]
+;B[bq]
+;W[la]
+;B[qh]
+;W[pg]
+;B[ka]
+;W[aq]
+;B[dr]
+;W[la]
+;B[qf]
+;W[rf]
+;B[ka]
+;W[ar]
+;B[fs]
+;W[la]
+;B[rd]
+;W[na]
+;B[pb]
+;W[rb]
+;B[qb]
+;W[rc]
+;B[ra]
+;W[sd]
+;B[se]
+;W[sf]
+C[Levvo: I'm stupid.
+]
+;B[oe]
+;W[nf]
+;B[nd]
+;W[md]
+;B[qc]
+;W[se]
+;B[hb]
+;W[mc]
+;B[kd]
+;W[ib]
+;B[fd]
+;W[fc]
+;B[ed]
+;W[ec]
+;B[eb]
+;W[dd]
+;B[ee]
+;W[de]
+;B[fe]
+;W[cc]
+;B[db]
+;W[cd]
+;B[cb]
+;W[cf]
+;B[be]
+;W[bf]
+;B[bb]
+;W[eg]
+;B[fh]
+;W[bh]
+;B[bi]
+;W[ah]
+;B[cg]
+;W[bg]
+;B[df]
+;W[bd]
+;B[ai]
+;W[bj]
+;B[hi]
+;W[ij]
+;B[ha]
+;W[ia]
+;B[of]
+;W[oh]
+;B[oj]
+;W[pa]
+;B[ob]
+;W[oa]
+;B[qa]
+;W[sb]
+;B[nj]
+;W[sc]
+;B[lg]
+;W[sa]
+;B[oi]
+;W[od]
+;B[jj]
+;W[pc]
+;B[ii]
+;W[hr]
+C[Levvo: what is this insanity XD
+]
+C[gamesorry: ooops...
+]
+;B[ac]
+;W[ae]
+;B[ej]
+;W[dk]
+;B[aj]
+;W[ak]
+;B[cj]
+;W[bk]
+;B[ao]
+;W[bo]
+;B[eo]
+;W[do]
+;B[hp]
+;W[ip]
+;B[km]
+;W[lk]
+;B[lj]
+;W[ll]
+;B[kn]
+;W[ko]
+;B[hs]
+;W[is]
+;B[gs]
+;W[gj]
+;B[fj]
+;W[bc]
+;B[ab]
+;W[im]
+;B[jn]
+;W[hm]
+;B[gn]
+;W[ei]
+;B[ih]
+;W[]
+;B[]
+C[Levvo: just holy cow.
+]
+C[Levvo: thanks XD ...
+]
+C[gamesorry: good game
+]
+C[Levvo: Good game. =)
+]
+C[gamesorry: amazing;)
+]
+C[Levvo: so much blood.
+]
+C[Levvo: So many mistakes..
+]
+C[gamesorry: all over the board...
+]
+C[Levvo: pretty happy with a 1.5 game after my position....
+]
+C[Levvo: XD
+]
+C[Levvo: That ko really set things in motion. XD
+]
+C[gamesorry: I even didn't get enough time to count XD
+]
+C[Levvo: ye me either.
+]
+C[gamesorry: yeah how many kos did we have
+]
+C[gamesorry: haha
+]
+C[Levvo: 3 major I guess :P
+]
+C[Levvo: that last move I made.
+]
+C[Levvo: I think it wasn't needed?
+]
+C[gamesorry: right:)
+]
+C[Levvo: I would be so mad if it was a 0.5 game XD
+]
+C[gamesorry: then it'd be 
+]
+C[gamesorry: exactly:)
+]
+C[gamesorry: ok i gotta go, see you guys later:)
+]
+C[Levvo: see you =)
+]
+C[Levvo: Xhu, teach me not to overplay? :3
+]
+C[Levvo: I'd be so dead after this XD..... From move 93: L12 
+]
+C[Levvo: Yea I guess I will actually get away with it, sort of. From move 93: L12 M13 O13 O14 N14 P14 K13 L14 J14 M10 L11 K16 L17 H16 
+]
+C[Levvo: yea
+]
+C[Levvo: XD
+]
+C[Levvo: This whole game is bad :D
+]
+C[Levvo: Can't believe I made p6 work.
+]
+C[Levvo: anyhow
+]
+C[gamesorry: Can't believe O1 makes the group alive without a ko...
+]
+C[gamesorry: Why didn't I choose this move.... From move 143: F7 
+]
+C[gamesorry: Hard for white. From move 198: M19 F17 E18 E17 D16 E16 G18 H18 H19 J19 K18 
+]
+C[gamesorry: A safer connection?. From move 153: H16 
+]
+C[Levvo: Ah yes, I did :P
+]
+C[Levvo: the crazy starts at 168 though
+]
+C[Levvo: before that it was whites win
+]
+C[Levvo: No before that its just me overplaying and losing the game :P
+]
+C[Levvo: Oh? :P
+]
+C[Levvo: I died in the corner though? :P
+]
+C[Levvo: yea
+]
+C[Levvo: myea
+]
+C[Levvo: I did some really sad playing in that top right corner.. XD
+]
+C[Levvo: you mean the ko?
+]
+C[Levvo: Right
+]
+C[Levvo: But kill white?
+]
+C[Levvo: Because..
+]
+C[Levvo: I was beeing stupid =)
+]
+C[Levvo: Just this is enough I think. Black has no eyes.. From move 224: T15 S19 
+]
+C[Levvo: Losing move.. From move 37: 
+]
+C[Levvo: considering what white gained on that exchange?
+]
+C[Levvo: Yepp, losing move :P
+]
+C[Levvo: From beeing not settled. To beeing super strong with huuuge influence.
+]
+C[Levvo: yes
+]
+C[Levvo: Three are a ton of bigger moves.. From move 36: 
+]
+C[Levvo: Hahaha
+]
+C[Levvo: Yes, that's true too I guess.
+]
+C[Levvo: The time didn't help.
+]
+C[Levvo: yea
+]
+C[Levvo: G'night herb
+]
+C[Levvo: I see The Arctic has snuck aboard? :D
+]
+C[Levvo: This move was the filling my own space.. From move 321: 
+]
+C[Levvo: It's too close to whites huuuuuge wall
+]
+C[Levvo: And if its something you should learn to do, it is to respect.. the wall.
+]
+C[Levvo: Hehehe
+]
+C[Levvo: Yes Linux but.
+]
+C[Levvo: Just somethhing silly like this and where is the moyo?. From move 36: F8 D8 F6 D6 B4 B5 B3 C5 A5 A6 A4 C7 
+]
+C[Levvo: Right
+]
+C[Levvo: Its impossible to say what would happen XD
+]
+C[Levvo: Later.
+]
+C[Levvo: So better just let it be.
+]
+C[Levvo: Take big points.
+]
+C[Levvo: yea
+]
+C[Levvo: for example
+]
+C[Levvo: Ex.. From move 37: E8 B10 R12 
+]
+C[Levvo: Even if black just lives there. And white gets the top.
+]
+C[Levvo: He fixes his weakness and gets something like a potential 15+p on the side.
+]
+C[Levvo: Compared to black just getting 6 points straight up.
+]
+C[Levvo: Right, black is undercut on both sides.
+]
+C[Levvo: This is quite horirble for black tbh. But this is probably better then what happend in the game.
+]
+C[Levvo: In the game I gave white soo much
+]
+C[Levvo: Then ignored everything and took r9.
+]
+C[Levvo: White got all that for blacks C12 pretty much. And I got sente to play R9 which was probably my ownly salvation.. From move 53: 
+]
+C[Levvo: No lead is lead in points :P
+]
+C[Levvo: Ahead in the game.
+]
+C[Levvo: More likely to win? =)
+]
+C[Levvo: Sente early means you get the biggest point on the board.
+]
+C[Levvo: So it's importaint ofcourse.
+]
+C[Levvo: Depends on the situation :P
+]
+C[Levvo: And how obvious it is.
+]
+C[Levvo: Its almost impossible to "read out" a fuseki.
+]
+C[Levvo: You can know a few by heart, but that doesn't mean your opponent will play like that.
+]
+C[Levvo: Is this some kind of traumatic event you experienced xhu? :P
+]
+C[Levvo: Haha I see.
+]
+C[Levvo: You're nr 1 in 19x19?
+]
+C[Levvo: ^^
+]
+C[Levvo: Maybe it's time for me to take my lessons back up with mr. Jeff.
+]
+C[Levvo: To bad I wont have time starting next month =/
+]
+C[Levvo: Su Yang.
+]
+C[Levvo: A good friend to Antti (Ten)
+]
+C[Levvo: And my teacher :P
+]
+C[Levvo: Yea, 6 dan EGF from China originally.
+]
+C[Levvo: :D
+]
+C[Levvo: I don't think he is.
+]
+C[Levvo: They're working on teaching tools now =)
+]
+C[Levvo: Yes ^_^ 
+]
+C[Levvo: I think I'm going to start my online go club up soon again.
+]
+C[Levvo: Just need super active people to join in ;)
+]
+C[Levvo: Like.. driven people.
+]
+C[Levvo: Yes.
+]
+C[Levvo: Had some nice ideas with it too.
+]
+C[Levvo: Around the globe.
+]
+C[Levvo: Along with sweden.
+]
+C[Levvo: Yea I thought they were doing that.
+]
+C[Levvo: Let's go back to the normal chat XD ...
+]
+C[Levvo: Alright :P
+]
+C[Levvo: G'night then! =)
+]
+C[xhu98: WOW
+]
+C[xhu98: 323 moves. 1.5 points
+]
+C[xhu98: What a game
+]
+C[xhu98: You guys were literally fighting everywhere on the board
+]
+C[xhu98: Hey yo
+]
+C[xhu98: Yeah kind of
+]
+C[xhu98: It's still complicated though because the groups are so split
+]
+C[xhu98: But I guess White would go for the top right corner
+]
+C[xhu98: Would be bad if he succeeded
+]
+C[LinuxGooo: oh.. a chinese 
+]
+C[LinuxGooo: till move 60 white dominated the centre, hm ?
+]
+C[xhu98: yep
+]
+C[xhu98: And yes he's Chinese
+]
+C[xhu98: Levvo saw us reviewing our game in Mandarin
+]
+C[xhu98: That game was less intense than this one
+]
+C[herbie: normal up to move 5 huh? xD
+]
+C[xhu98: I'd say White is good at the start
+]
+C[LinuxGooo: lots of josekis in the beginning, hm
+]
+C[xhu98: yeah
+]
+C[LinuxGooo: for me its alrady crazyat move 80-85 haha
+]
+C[xhu98: At that point I already thought it'd be an overturn
+]
+C[xhu98: For Black
+]
+C[xhu98: Yeah
+]
+C[xhu98: Top right?
+]
+C[xhu98: That has a lot of aji
+]
+C[LinuxGooo: hm... I think you provoked it playing "on the edge"
+]
+C[xhu98: White needs at least one extra move
+]
+C[xhu98: Yeah then P18 will be sente
+]
+C[xhu98: I think Black left White live in the top left corner
+]
+C[xhu98: That was a pity
+]
+C[xhu98: before the third ko
+]
+C[xhu98: The third ko started because of that aji in the top right corner
+]
+C[LinuxGooo: why did black play first S19 instead of T16 ?
+]
+C[LinuxGooo: move 225
+]
+C[xhu98: Black would have been dead anyways
+]
+C[LinuxGooo: ah, I see R17 is the vital point, hm ?
+]
+C[LinuxGooo: vital point R17 ?. From move 224: T15 T14 T16 Q19 P18 P19 R19 R17 
+]
+C[xhu98: Or White can just reduce from outside
+]
+C[xhu98: Black doesn't have sufficient space
+]
+C[xhu98: But then again, White's outside doesn't technically have two eyes either
+]
+C[herbie: false eyes are confusing D=
+]
+C[xhu98: yes they are
+]
+C[herbie: the not-so-obvious ones xD
+]
+C[xhu98: Especially when you have interlocking groups
+]
+C[xhu98: Well, maybe not the losing move
+]
+C[xhu98: Oh wow
+]
+C[LinuxGooo: hm.. C8 I think would have been of benefit if black expanded it with C6 to a base
+]
+C[xhu98: Yeah R9 was more urgent
+]
+C[xhu98: I don't blame either side for the midgame though
+]
+C[xhu98: It's just too much for a live quick game
+]
+C[xhu98: I like D in that case
+]
+C[herbie: blech ok this is getting too much for past 2 am >.>;
+]
+C[herbie: Night guys!
+]
+C[xhu98: o/
+]
+C[LinuxGooo: good night, Herbie
+]
+C[xhu98: Good night
+]
+C[LinuxGooo: Herbie, did you become member of our Rengo Group?
+]
+C[LinuxGooo: yeah, I pulled him in... :-)
+]
+C[LinuxGooo: hm.... this "big move" thing sometimes I still do not understand.....
+]
+C[xhu98: Otherwise it'd be a half-pointer
+]
+C[LinuxGooo: for one of these 4 big moves you would let die C6 ?
+]
+C[xhu98: Yeah
+]
+C[xhu98: Because it's sandwiched
+]
+C[xhu98: And weak
+]
+C[xhu98: So just leave the aji there
+]
+C[LinuxGooo: hm... yes, C6 is weak, but with H5 and D10 white could create a big mojo left side, isnt ?
+]
+C[xhu98: Levvo: in gamesorry's case
+]
+C[xhu98: This is the great wall of China
+]
+C[LinuxGooo: hm... yes, I know the risks of walls 
+]
+C[LinuxGooo: play away from thickness
+]
+C[LinuxGooo: hm... I see
+]
+C[LinuxGooo: so C6 would have made white more strong
+]
+C[LinuxGooo: if playing there further on
+]
+C[xhu98: Well, some aji too
+]
+C[xhu98: This is early on in the game
+]
+C[xhu98: So you don't want to pull out a weak group now
+]
+C[xhu98: R9 is on spot though
+]
+C[LinuxGooo: hm... got it
+]
+C[xhu98: Yeah
+]
+C[xhu98: Plus Black's top right corner is not good
+]
+C[xhu98: If White gets too close
+]
+C[xhu98: White wrestled too much though
+]
+C[xhu98: The idea is if you get a lead and you can secure it, just do so
+]
+C[LinuxGooo: is "lead" = sente ?
+]
+C[xhu98: not exactly
+]
+C[xhu98: Well if you are sente,
+]
+C[xhu98: You are likely to establish a lead
+]
+C[LinuxGooo: hm... ok
+]
+C[xhu98: Yeah
+]
+C[xhu98: Then you can just profit from sente exchanges
+]
+C[xhu98: And keep pushing to winning
+]
+C[LinuxGooo: hm
+]
+C[LinuxGooo: how many moves you guys can pre-read ?
+]
+C[xhu98: Hard to say
+]
+C[xhu98: I like close battles more
+]
+C[xhu98: Because sometimes is just a tsumego problem really
+]
+C[xhu98: *it's
+]
+C[LinuxGooo: in such an early stage like move 37 I can pre-read max. 2-3 moves... not more
+]
+C[xhu98: Opening is vague
+]
+C[xhu98: But it should be more and more concrete as you proceed
+]
+C[xhu98: For example, what if you meet herminator
+]
+C[xhu98: And he starts a battle from a komoku pincer joseki
+]
+C[xhu98: This is what I am experiencing right NOW
+]
+C[xhu98: xD
+]
+C[xhu98: In my effort to defend #1 on the ladder
+]
+C[LinuxGooo: :-)
+]
+C[xhu98: Temporarily
+]
+C[xhu98: Fame for a few days
+]
+C[xhu98: Why not, you know :-)
+]
+C[LinuxGooo: it seems this "ladder thing" is attracing many Go players :-)
+]
+C[LinuxGooo: who is Mr. Jeff ?
+]
+C[xhu98: Oh wow
+]
+C[LinuxGooo: your teacher ?
+]
+C[LinuxGooo: ah... nice.
+]
+C[xhu98: pretty cool
+]
+C[xhu98: lol Herman is my teacher then
+]
+C[xhu98: My plan is
+]
+C[xhu98: To assemble a crew of teachers
+]
+C[LinuxGooo: is Jeff in Japane too like Ten ?
+]
+C[LinuxGooo: hm... OGS urgently needs teachers, indeed....
+]
+C[LinuxGooo: but so long the "teaching tool" (audio) is not working, I have my doubts that high dans can be attracted... this endless typing in the game chat isn very suitable for
+]
+C[LinuxGooo: isnt*
+]
+C[xhu98: Yeah they are suggesting that
+]
+C[LinuxGooo: its not on highest priority for the developers I heard
+]
+C[xhu98: That's just my plan for the GO Basics crew though
+]
+C[LinuxGooo: really ?
+]
+C[xhu98: Yeah
+]
+C[xhu98: probably bug fixes first, then
+]
+C[LinuxGooo: yes, I see it as the most urgent work
+]
+C[xhu98: I am trying to recruit more and more people
+]
+C[LinuxGooo: even more important than re-designing the tournament system
+]
+C[xhu98: nice!
+]
+C[LinuxGooo: you had an online Go club ?
+]
+C[LinuxGooo: people from Sweden ? Or around the globe ?
+]
+C[LinuxGooo: Mikasa wanted bring the ASR from KGS to OGS
+]
+C[LinuxGooo: she already got the OK from the owner 
+]
+C[LinuxGooo: so she told couple of weeks ago
+]
+C[LinuxGooo: :-)
+]
+C[LinuxGooo: ok.... its late here
+]
+C[LinuxGooo: I will say Good night 
+]
+C[xhu98: Alrighty
+]
+C[LinuxGooo: I keep it in mind to bring you all together for a Rengo game, promised, OK !
+]
+C[LinuxGooo: ;-)
+]
+C[LinuxGooo: see you
+]
+C[LinuxGooo: bye
+]
+)

@@ -1,0 +1,578 @@
+(;FF[4]
+GM[1]
+DT[2013-10-18]
+PC[OGS: http://online-go.com/game/5642]
+PB[battlepony]
+PW[Ten]
+BR[5d]
+WR[7d]
+CP[online-go.com]
+RE[B+2.5]
+SZ[19]
+KM[0.5]
+RU[japanese]
+HA[2]
+AB[pd][dp]
+C[battlepony: hi
+]
+C[Ten: Hi, have a nice game
+]
+;W[pq]
+;B[pn]
+;W[dc]
+;B[de]
+;W[ql]
+;B[fd]
+;W[fq]
+;B[dn]
+;W[jp]
+;B[qq]
+;W[pp]
+;B[qp]
+;W[qo]
+;B[ro]
+;W[qn]
+;B[pr]
+;W[or]
+;B[rn]
+;W[qm]
+;B[qr]
+;W[nq]
+;B[eb]
+;W[be]
+;B[cd]
+;W[ci]
+;B[ck]
+;W[cq]
+;B[dq]
+;W[dr]
+;B[cp]
+;W[br]
+;B[bq]
+;W[cr]
+;B[bd]
+;W[pg]
+;B[go]
+;W[hp]
+;B[in]
+;W[ei]
+;B[dh]
+;W[dk]
+;B[di]
+;W[cj]
+;B[cl]
+;W[dj]
+;B[ch]
+;W[dl]
+;B[dm]
+;W[eh]
+;B[bh]
+;W[fj]
+;B[fl]
+;W[nc]
+;B[nd]
+;W[md]
+;B[ne]
+;W[oc]
+;B[pf]
+;W[qf]
+;B[pc]
+;W[kc]
+;B[qe]
+;W[rf]
+;B[og]
+;W[ph]
+;B[ld]
+;W[mc]
+;B[me]
+;W[hc]
+;B[qg]
+;W[re]
+;B[oh]
+;W[qh]
+;B[oi]
+;W[rc]
+;B[ii]
+;W[ee]
+;B[ef]
+;W[df]
+;B[ff]
+;W[cf]
+;B[dg]
+;W[eg]
+;B[ah]
+;W[bi]
+C[Pempu: this is like tsumego!
+]
+C[Pempu: B seems dead tho
+]
+C[mw42: black dead
+]
+C[Pempu: Ten is too strong
+]
+C[mw42: too strong for what?
+]
+;B[ce]
+C[Pempu: for playing with mere mortals
+]
+C[Shakti: perhaps the strongest non-asian in Europe
+]
+C[Pempu: White also has all endgames in this board
+]
+;W[bf]
+C[mw42: has ten played ilja shikshin?
+]
+C[Pempu: hmm record mighht be 2-2 or soemthing
+]
+C[Pempu: maybe 2-1 for Ilja
+]
+C[Pempu: EGD knows
+]
+;B[ae]
+;W[af]
+;B[ad]
+C[oren: Ten won at this year's congress
+]
+;W[ec]
+;B[ed]
+;W[fc]
+;B[gd]
+C[Pempu: EGD record says it's 5-2 to Ilja. 
+]
+;W[gc]
+;B[bk]
+C[Pempu: If you only look at relatively recent games then it might be more even
+]
+;W[aj]
+;B[gi]
+;W[gh]
+C[Pempu: how did this seki happen!
+]
+C[mw42: reading, probably. losers
+]
+;B[hh]
+;W[gg]
+C[Pempu: What was wrong with this one???. From move 86: B13 
+]
+;B[id]
+C[Pempu: Maybe Ten calculated the endgame and needed more
+]
+C[mw42: pem, b can connect under
+]
+C[mw42: connect. From move 86: B13 A15 B14 A13 
+]
+C[Pempu: haha thanks for point it out
+]
+;W[hj]
+C[mw42: the variation feature is so nice
+]
+C[Pempu: yeah but it really needs move numbering
+]
+;B[if]
+C[mw42: that's true
+]
+C[oren: I would like if it didn't interfere with main board
+]
+;W[hd]
+;B[he]
+;W[hi]
+;B[ic]
+C[Pempu: I need to practice tsumego more :( 
+]
+C[anoek: If you click on the variation it'll have move numbers
+]
+;W[le]
+C[integer: interfere how?
+]
+C[mw42: only if you mouseover, i think it's really neat like that. though mouseover could use numbers, too
+]
+C[Pempu: I don't understand the interference either
+]
+;B[cb]
+C[Pempu: mouseover move numbering is big
+]
+C[oren: integer, wbaduk and tygem put the variations on the side of the board
+]
+C[oren: so you can still see the players play while analyzing the variation
+]
+C[integer: what, like a mini-board?
+]
+C[integer: on the side?
+]
+C[oren: yeah
+]
+C[anoek: we'll make it number on hover too, shouldn't be a problem
+]
+C[integer: hmm, i like the mouseover
+]
+;W[je]
+;B[ie]
+C[mw42: as do i
+]
+;W[lf]
+C[integer: instead of a separate board
+]
+C[mw42: have a sideboard would be too much clutter
+]
+;B[jc]
+C[oren: why not mouseover have a different board?
+]
+C[Pempu: yeah sideboard is only good in badukTV
+]
+;W[kb]
+C[integer: showing it on the main board looks better. plus if you click the variation it will add it to your personal analysis tree or whatever and you can play around with it
+]
+C[integer: so it feels consistent
+]
+C[oren: ok, I'll just have to disagree with that
+]
+;B[kd]
+C[oren: it's annoying to look and try to study a variation and miss what's going on
+]
+;W[jd]
+;B[ke]
+;W[ib]
+;B[jb]
+;W[ja]
+;B[jf]
+C[Pempu: Sideboard could be nice. Popup window so I could move it where I want it. Couldn't hurt
+]
+C[Pempu: but needs to be optional 
+]
+;W[lc]
+C[integer: yeah no popups for me
+]
+;B[ij]
+C[Shakti: ye
+]
+;W[hk]
+;B[ik]
+;W[gf]
+C[oren: it just seems weird to me anyone wants the board covered up
+]
+;B[db]
+C[Pempu: I don't really have room if I'm having player list open and big kibitz. 
+]
+C[mw42: relatively close
+]
+C[Pempu: I would need to move it outside of the game window. 
+]
+;W[fb]
+;B[fk]
+;W[ih]
+;B[hg]
+;W[ge]
+;B[fe]
+C[Pempu: uh this si so complicated
+]
+;W[fg]
+C[Pempu: or not ;)
+]
+C[Pempu: haha I'm so weak
+]
+;B[dd]
+C[integer: i would have died 4 times already
+]
+C[mw42: black is winning
+]
+C[Pempu: how do you count the middle?
+]
+;W[fi]
+;B[ga]
+C[oren: dififcult :)
+]
+C[mw42: 20+pot
+]
+;W[hb]
+C[Pempu: Endgame. From move 138: B5 B4 B7 C7 A9 B8 A8 B6 
+]
+;B[ob]
+;W[nb]
+;B[qb]
+;W[fa]
+C[integer: not this?. From move 138: B5 B4 B7 C7 A9 A8 B8 B6 A7 A6 A8 
+]
+;B[qi]
+;W[rh]
+;B[hl]
+C[Pempu: yeah that is better. 
+]
+;W[nj]
+;B[oj]
+;W[nl]
+C[Pempu: Man I'm having trouble getting used to the fact that if you press down arrow while no branch is there then it will go back to previous move that had a branch. Sometimes that can be like 100 moves back
+]
+;B[mj]
+C[mw42: o10 o8 are nice moves
+]
+;W[mk]
+C[Pempu: in the gametree that is
+]
+;B[lj]
+;W[ni]
+;B[mh]
+C[anoek: Pempu oh that is horrible.. 
+]
+C[anoek: that shouldn't work like that
+]
+;W[cc]
+;B[bc]
+C[anoek: I added it to the bug list
+]
+C[mw42: i bet ten thinks he is one his lasy byo period
+]
+;W[bb]
+;B[ab]
+C[Pempu: maybe it's better that way ;)
+]
+C[mw42: h8 o10 lost b the game
+]
+;W[nh]
+C[Pempu: like an extra life after time runs out :)
+]
+;B[ng]
+C[mw42: haha
+]
+;W[ig]
+;B[hf]
+;W[lh]
+C[mw42: ten trying to work some dark magic
+]
+C[Pempu: Hmm shift clicking the board doesn't do anything unless you are in the analyze mode. Maybe shift clicking should bring you to the analyze mode also
+]
+;B[mi]
+C[integer: agree with that
+]
+C[mw42: ahh, ctrl+click works here, too
+]
+;W[kg]
+;B[jh]
+;W[jg]
+;B[kh]
+;W[je]
+;B[mf]
+C[Pempu: Also clicking highlighted coordinates like this Q6 don't go to that move in the analyze mode. Could be ok too
+]
+;W[nk]
+;B[kk]
+C[mw42: fun. From move 172: 
+]
+C[integer: haha
+]
+C[esidebob: :)
+]
+;W[kl]
+;B[kn]
+C[mw42: unfortunately, i can see that being abused...
+]
+;W[lo]
+;B[ln]
+;W[mo]
+;B[ko]
+;W[kp]
+C[integer: noo, that is awesome, didn't even know about it
+]
+C[integer: but see the pencil now
+]
+;B[mm]
+C[mw42: lol
+]
+;W[lk]
+C[mw42: i just discovered it today, too
+]
+;B[kj]
+C[integer: d1. From move 182: 
+]
+C[Pempu: yeah it can be abused but hopefully it wont be a problem because it's hover on. 
+]
+C[mw42: kame no itte?
+]
+C[integer: hehe
+]
+;W[nm]
+C[integer: imagine that for that ear reddening move
+]
+;B[mn]
+;W[nn]
+;B[ll]
+;W[qj]
+;B[gk]
+;W[gj]
+;B[rm]
+C[Pempu: haha someone could use the whole 3 hours of some long game to draw a player profile and then reveal it on the endgame
+]
+C[Pempu: real art
+]
+;W[bp]
+;B[eq]
+;W[er]
+;B[bo]
+;W[aq]
+C[mw42: that'd be cool
+]
+C[Pempu: I like that so much. Briings something new to the table
+]
+;B[fp]
+C[mw42: i suck at drawing on a computer. even integer's doodle would be beyond me
+]
+;W[gp]
+;B[gq]
+;W[fr]
+;B[ho]
+;W[io]
+;B[jo]
+;W[ip]
+C[Pempu: Simultaneous drawing with audio (student+teacher) would be the ultimate teachging tool
+]
+;B[pi]
+;W[ri]
+C[anoek: FTR it's like that in review mode Pempu
+]
+;B[pk]
+;W[rl]
+C[Pempu: can't do simultaneous
+]
+;B[qk]
+;W[rk]
+;B[pl]
+;W[pm]
+C[anoek: oh you mean have a student draw as you are drawing?
+]
+;B[ao]
+C[Pempu: yes
+]
+;W[oa]
+;B[pb]
+C[anoek: That could probably be arranged, will have to think about that some more
+]
+;W[od]
+C[Pempu: but even the current thing is so good. 
+]
+;B[oe]
+;W[qd]
+;B[pe]
+;W[ak]
+;B[al]
+;W[rb]
+;B[sm]
+;W[bj]
+;B[bm]
+;W[ea]
+;B[ba]
+;W[ra]
+;B[pa]
+;W[na]
+;B[pj]
+C[Pempu: hehe N13 nice nice
+]
+;W[ml]
+;B[lm]
+;W[rj]
+;B[ol]
+C[Pempu: oh it doesnt work
+]
+;W[om]
+;B[qc]
+;W[rd]
+C[mw42: yeah, i was wondering what you were pointing out
+]
+;B[ap]
+;W[bq]
+C[Pempu: so close :)
+]
+C[mw42: uh oh
+]
+C[mw42: w win
+]
+;B[da]
+;W[el]
+;B[em]
+;W[ej]
+;B[os]
+;W[ns]
+;B[ps]
+;W[sl]
+;B[gm]
+;W[il]
+C[oren: uh oh
+]
+;B[im]
+C[Pempu: N13 here we come!
+]
+C[mw42: lol
+]
+C[mw42: just timesuji
+]
+;W[ji]
+;B[ki]
+C[Pempu: nope
+]
+C[Pempu: 1 point
+]
+;W[qa]
+C[Pempu: b needs to fill N13
+]
+;B[nr]
+;W[mr]
+C[mw42: i must be missing something
+]
+C[Pempu: b cant play M11
+]
+C[integer: d2. From move 255: T1 P9 T2 N13 M11 K9 
+]
+C[mw42: i know that
+]
+;B[ai]
+;W[ok]
+;B[jl]
+;W[ek]
+C[mw42: okay, wow. odd
+]
+;B[bg]
+C[Pempu: so nice game
+]
+C[Pempu: high level
+]
+;W[]
+;B[]
+C[Ten: Thank you
+]
+C[battlepony: tx
+]
+C[Ten: Hmm, handy server, this
+]
+C[Ten: Nothing much to complain about save for the slight graphical glitches at times
+]
+C[mw42: gg
+]
+C[mw42: i miscounted ;-/
+]
+C[Pempu: Thank you both players. Was so fun to watch
+]
+C[fly: yes, thank you!
+]
+C[anoek: Awesome game :)
+]
+C[Pempu: very. 
+]
+C[Pempu: Players see old kibitz when they refresh window?
+]
+C[Pempu: or they don't see kiitz at all without refreshing?
+]
+C[anoek: We're certainly going to continue working to clean those up Ten :)
+]
+C[anoek: Pempu as soon as the game is over the chat updates for them
+]
+C[Pempu: I always have to refresh to see kibitz when my game is over
+]
+C[Pempu: I need to try it out more
+]
+C[anoek: Pempu shoot - let us know if that's still a problem, we did make some changes to that system the other day.. 
+]
+C[anoek: i'll try it out here in a bit as well
+]
+C[Pempu: I can do the testing :)
+]
+C[Pempu: I will play now
+]
+)

@@ -1,0 +1,683 @@
+(;FF[4]
+GM[1]
+DT[2014-06-07]
+PC[OGS: http://online-go.com/game/643452]
+PB[lovego]
+PW[jianq]
+BR[5k]
+WR[5d]
+CP[online-go.com]
+RE[B+2.5]
+SZ[19]
+KM[0.5]
+RU[japanese]
+HA[9]
+AB[jd][jp][dj][pj][jj][dd][pp][pd][dp]
+C[jianq: hi
+]
+C[lovego: ?
+]
+C[jianq: gg
+]
+;W[qn]
+C[jianq: hi
+]
+C[lovego: ?
+]
+C[jianq: gg
+]
+;B[cf]
+;W[nq]
+C[lovego: u r not that good
+]
+C[jianq: we will see
+]
+C[lovego: nooe is
+]
+;B[fc]
+;W[nc]
+;B[fq]
+;W[pf]
+;B[qf]
+;W[qe]
+;B[pe]
+;W[qd]
+C[lovego: no one is in the world
+]
+;B[pc]
+;W[qc]
+C[jianq: well than you should be 5p instead of 5k
+]
+C[lovego: what part of canada r u ?
+]
+C[jianq: toronto
+]
+C[lovego: u r right on that
+]
+;B[pb]
+C[lovego: i ma talking about 9 handi
+]
+C[lovego: beautiful
+]
+;W[qg]
+C[lovego: CN tower
+]
+;B[of]
+C[jianq: lee sedol can give me 9 handi
+]
+;W[rf]
+C[lovego: he can't
+]
+;B[ne]
+;W[kd]
+;B[ke]
+;W[le]
+;B[ld]
+;W[kc]
+;B[lf]
+;W[je]
+;B[kf]
+;W[id]
+;B[lc]
+;W[jc]
+;B[me]
+;W[fe]
+;B[or]
+;W[no]
+;B[nr]
+;W[mq]
+;B[mr]
+;W[kq]
+;B[jq]
+;W[lr]
+;B[jr]
+;W[rp]
+;B[qq]
+;W[rq]
+;B[rr]
+;W[sr]
+;B[pn]
+;W[pm]
+;B[on]
+;W[qo]
+;B[op]
+;W[lm]
+C[lovego: if u can't kill me big somewhere, u can't win
+]
+;B[om]
+;W[ol]
+;B[nl]
+;W[pl]
+;B[nm]
+;W[ko]
+;B[kp]
+;W[lp]
+;B[nk]
+;W[in]
+;B[co]
+;W[gq]
+;B[gp]
+;W[fp]
+;B[eq]
+;W[hp]
+;B[go]
+;W[hq]
+;B[ho]
+;W[io]
+;B[ip]
+;W[fr]
+;B[hr]
+;W[gr]
+;B[ir]
+;W[kj]
+;B[ki]
+;W[li]
+;B[ni]
+;W[dr]
+;B[er]
+;W[es]
+;B[fs]
+;W[gs]
+;B[hs]
+;W[kh]
+;B[ji]
+;W[nh]
+;B[oh]
+;W[oi]
+;B[pi]
+;W[og]
+;B[ph]
+;W[nf]
+;B[oe]
+;W[mi]
+;B[nj]
+;W[gm]
+;B[iq]
+;W[fj]
+;B[jh]
+;W[jg]
+;B[kg]
+;W[lh]
+;B[kk]
+;W[lk]
+;B[lj]
+;W[mj]
+;B[ll]
+;W[kj]
+;B[mk]
+;W[ch]
+;B[bg]
+;W[cc]
+;B[dc]
+;W[cd]
+;B[be]
+;W[db]
+;B[eb]
+;W[bb]
+;B[bd]
+;W[de]
+;B[bc]
+;W[ce]
+;B[da]
+;W[cb]
+;B[ed]
+;W[fd]
+;B[hb]
+;W[lb]
+;B[pg]
+;W[bh]
+;B[df]
+;W[ee]
+;B[di]
+;W[dh]
+;B[af]
+;W[ah]
+;B[eh]
+;W[eg]
+;B[dg]
+;W[ck]
+;B[bj]
+;W[fh]
+;B[ei]
+;W[cj]
+;B[ci]
+;W[bi]
+;B[dk]
+;W[bk]
+;B[ag]
+;W[dl]
+;B[gd]
+;W[fi]
+;B[gb]
+;W[fa]
+;B[ea]
+;W[hc]
+;B[ib]
+;W[jb]
+;B[gc]
+;W[ig]
+;B[jo]
+;W[kn]
+;B[jn]
+;W[jm]
+;B[im]
+;W[il]
+;B[hn]
+;W[hm]
+;B[in]
+;W[jl]
+;B[kl]
+;W[km]
+;B[bm]
+;W[bp]
+;B[bo]
+;W[dq]
+;B[ep]
+;W[br]
+;B[cq]
+;W[ih]
+;B[ef]
+;W[fg]
+;B[ff]
+;W[gf]
+;B[hj]
+;W[ij]
+;B[ii]
+;W[hi]
+;B[ik]
+;W[jk]
+;B[lj]
+;W[hk]
+;B[qk]
+;W[qr]
+;B[pr]
+;W[rs]
+;B[rm]
+;W[rl]
+;B[ql]
+;W[qm]
+;B[rn]
+;W[ro]
+;B[rk]
+;W[qb]
+;B[qa]
+;W[ra]
+;B[pa]
+;W[rb]
+;B[mb]
+;W[ma]
+;B[na]
+;W[la]
+;B[mc]
+;W[ri]
+;B[qh]
+;W[rh]
+;B[qf]
+;W[rg]
+;B[mn]
+;W[mo]
+;B[dm]
+;W[em]
+;B[dn]
+;W[fn]
+;B[ka]
+;W[kb]
+C[lovego: miscliked
+]
+;B[jf]
+;W[if]
+;B[ij]
+;W[gj]
+;B[kj]
+;W[ge]
+;B[en]
+;W[cl]
+;B[fo]
+;W[mm]
+;B[nn]
+;W[ml]
+;B[lk]
+;W[np]
+;B[ln]
+;W[lo]
+;B[kr]
+;W[oq]
+;B[pq]
+;W[ls]
+;B[lq]
+;W[pk]
+;B[qj]
+;W[kq]
+C[jianq: you are up like 7 points now
+]
+C[lovego: i need 1/2
+]
+C[jianq: if with komi, it is close game
+]
+;B[gk]
+;W[hl]
+C[lovego: i made big mistake on that corner
+]
+C[lovego: I shouldn't fight u, jsut give u s small corner
+]
+;B[lq]
+;W[cp]
+;B[bq]
+;W[kq]
+;B[hh]
+;W[gi]
+;B[lq]
+;W[aj]
+;B[cg]
+;W[kq]
+;B[ic]
+;W[hd]
+;B[lq]
+;W[nb]
+;B[oa]
+;W[kq]
+;B[ia]
+;W[ga]
+;B[lq]
+;W[ap]
+;B[aq]
+;W[kq]
+;B[ja]
+;W[jd]
+;B[lq]
+;W[cr]
+;B[ao]
+;W[kq]
+;B[he]
+;W[ie]
+;B[lq]
+;W[md]
+;B[nd]
+;W[kq]
+;B[hf]
+;W[hg]
+;B[lq]
+;W[ae]
+;B[ad]
+;W[kq]
+;B[el]
+;W[fm]
+;B[lq]
+;W[sl]
+;B[sk]
+;W[kq]
+;B[ms]
+;W[lq]
+;B[ks]
+;W[cm]
+;B[cn]
+;W[ok]
+;B[oj]
+;W[ab]
+;B[ps]
+;W[qs]
+;B[al]
+;W[ak]
+;B[bl]
+;W[sj]
+;B[rj]
+;W[si]
+;B[pf]
+;W[sn]
+;B[sm]
+;W[so]
+;B[]
+;W[]
+C[jianq: with komi you lose
+]
+C[lovego: which ko?
+]
+C[jianq: You think lee sedol cannot give 9 handis?
+]
+C[lovego: maybe
+]
+C[lovego: i am just careless
+]
+C[jianq: it is only 0.5 komi
+]
+C[lovego: want more?
+]
+C[jianq: no it is fine
+]
+C[lovego: which won't be close
+]
+C[jianq: I don't want to play 9 handi games
+]
+C[jianq: too tiring
+]
+C[lovego: me 2
+]
+C[lovego: almost impossible to win
+]
+C[lovego: i can take same moves u have
+]
+C[lovego: i can't win
+]
+C[lovego: u can't win
+]
+C[jianq: if you played this you would have won more
+]
+C[lovego: i kno
+]
+C[lovego: so how can anyone win 9 handi?
+]
+C[lovego: if i make exactly same moves as u do
+]
+C[jianq: I have won 9 handi before, if I pushed really hard on this one, I may win as well
+]
+C[jianq: I have not pushed hard on endgame
+]
+C[lovego: let us have one more?
+]
+C[lovego: only 4:30 
+]
+C[lovego: on Sat
+]
+C[jianq: say here, I should not have connected on s18
+]
+C[jianq: I could try something like this
+]
+C[lovego: I shouldn't let u kill my corner
+]
+C[lovego: just give u 14-15 at corner
+]
+C[lovego: u would resing right there
+]
+C[lovego: no doubt, u r so good
+]
+C[lovego: but not 9 handi good
+]
+C[jianq: why did you play b17
+]
+C[jianq: I don't have time for another game by the way, I need to head out soon
+]
+C[lovego: mistake
+]
+C[lovego: ok, see you buddy
+]
+C[lovego: thx for teaching
+]
+C[jianq: oh no, I am not even good
+]
+C[lovego: u r very good at here
+]
+C[jianq: there are a some 2ps in toronto, which is crazy, they give me two handis
+]
+C[lovego: i watched a few games
+]
+C[lovego: RobertT is good as well
+]
+C[lovego: did u play with him?
+]
+C[jianq: no
+]
+C[jianq: I don't play here often
+]
+C[lovego: littlepony is 5d as well
+]
+C[jianq: the 5ds here are weaker
+]
+C[jianq: I am probably 4d in real life
+]
+C[lovego: i c
+]
+C[jianq: my endgame is bad
+]
+C[lovego: chinese?
+]
+C[jianq: yeah
+]
+C[jianq: I am a chess player in fact
+]
+C[lovego: i can guess from ur name
+]
+C[lovego: i am investment banker
+]
+C[lovego: just love this game
+]
+C[jianq: oh
+]
+C[jianq: where do you work?
+]
+C[lovego: 5400 block of Buenos Aires Blvd.
+]
+C[lovego: goldman sachs
+]
+C[lovego: in NYC
+]
+C[jianq: wow, that is very impressive
+]
+C[jianq: I am a student in University of Toronto
+]
+C[lovego: love toronto
+]
+C[jianq: haha, me too
+]
+C[jianq: if you like chess too, we can play sometimes, I am 2200 fide
+]
+C[lovego: no
+]
+C[jianq: if you know what I am talking about
+]
+C[lovego: this is good enough
+]
+C[jianq: well, my go is not good, I cannot coach people
+]
+C[lovego: once football season starts, i bet football games
+]
+C[jianq: that is sweet
+]
+C[jianq: do you know how can I add you as a friend?
+]
+C[lovego: i used to play go when i was little child in china
+]
+C[lovego: yes
+]
+C[lovego: give me a sec
+]
+C[jianq: ok
+]
+C[jianq: we can schedule some time spots to play if you want to
+]
+C[lovego: sure
+]
+C[lovego: let me find how u do it
+]
+C[lovego: I just added u as my friend
+]
+C[lovego: click I on ur id
+]
+C[lovego: and accept
+]
+C[lovego: it
+]
+C[lovego: see it?
+]
+C[jianq: not sure how to do it
+]
+C[jianq: one sec
+]
+C[lovego: click ur id and click i
+]
+C[jianq: but there is nothing to accept tho
+]
+C[lovego: do you see something above my id
+]
+C[lovego: it is a number
+]
+C[lovego: click that number
+]
+C[lovego: up right corner
+]
+C[lovego: right of GS
+]
+C[jianq: right
+]
+C[jianq: I got it
+]
+C[lovego: i see it as well
+]
+C[jianq: they should have made this easier to use
+]
+C[jianq: like facebook where they give you a notification
+]
+C[lovego: they are still work on it
+]
+C[jianq: ok
+]
+C[jianq: how do you like investment banking?
+]
+C[lovego: that number is notification
+]
+C[lovego: gr8 job with gr8 money
+]
+C[lovego: but longer i do, less i like it
+]
+C[lovego: it is all about money
+]
+C[jianq: I see
+]
+C[jianq: I want to get into that field also, I should learn from you the investment banking stuff
+]
+C[lovego: I was in many deals where a company bought another company, many people lost jobs while we mad millions
+]
+C[lovego: guilty feeling starts 
+]
+C[jianq: ok, acquisitions
+]
+C[lovego: yes
+]
+C[jianq: do you deal with mortgage backed securities and stuff?
+]
+C[lovego: no, that was big miss yrs ago
+]
+C[jianq: right, they have more regulations since the crisis I guess
+]
+C[lovego: a lot more
+]
+C[lovego: but we always find way around
+]
+C[jianq: I am a huge fan of economics
+]
+C[jianq: yeah, you guys are so smart
+]
+C[jianq: you are like manipulating the system almost
+]
+C[lovego: we have over 500 lawyers to do this kind of thing
+]
+C[jianq: ah, I see
+]
+C[lovego: with help of both parties in Washington
+]
+C[lovego: Bush, Obama
+]
+C[lovego: Clinton
+]
+C[lovego: etc
+]
+C[lovego: they need $ from us
+]
+C[jianq: well, anyway, it is very nice meeting you, I really have to go now, but if any time you want to play go or chess, I am more than happy to make accompany
+]
+C[lovego: thx
+]
+C[jianq: oh nothing to thank
+]
+C[lovego: when u come, just see if i am online
+]
+C[jianq: thank you for telling me about investment banking
+]
+C[jianq: yeah, sure, you will be 5d very soon
+]
+C[jianq: you play well
+]
+C[lovego: and corrupted political system in US
+]
+C[lovego: once my daguters get out of shcool, my wife and i will move back to china
+]
+C[jianq: yeah, it happens everywhere in the world
+]
+C[jianq: yeah, maybe it is a better place to go
+]
+C[lovego: we have a house in beijing
+]
+C[jianq: since the dollar is weakening
+]
+C[jianq: nice
+]
+C[jianq: must be very expansive nowadays
+]
+C[jianq: anyway, I will talk to you soon
+]
+C[lovego: yep, we did in 2001
+]
+C[lovego: bye
+]
+C[jianq: bye
+]
+)
